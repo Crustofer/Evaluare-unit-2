@@ -1,0 +1,47 @@
+body{
+background-color: #92C7C7;
+}
+
+h1{color: white;
+text-align: center;
+font-family: arial;
+font-size: 40px;
+text-decoration: underline;
+}
+
+h2{color: white;
+text-align: center;
+font-family: arial;
+font-size: 30px;
+}
+
+p{
+text-align: center;
+font-family: arial;
+font-size: 20px;
+}
+
+table {
+background-color: white;
+font-family: arial;
+font-size: 18px;
+margin-left: auto;
+margin-right: auto;
+}
+
+table, tr, td {border: 2px solid black;}
+
+img{border: 2px solid black;
+border-radius: 10px;
+}
+
+div.img{
+	text-align: center;
+}
+
+div.buton{
+color: white;
+text-align: center;
+font-family: arial;
+font-size: 30px;
+}
